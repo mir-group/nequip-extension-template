@@ -1,0 +1,1 @@
+Files implementing custom `NequIPLightningModule`s (https://nequip.readthedocs.io/en/latest/api/lightning_module.html), metrics (https://nequip.readthedocs.io/en/latest/api/metrics.html), and callbacks (https://nequip.readthedocs.io/en/latest/api/callbacks.html) can be placed here.
