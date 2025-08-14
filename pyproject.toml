@@ -7,14 +7,14 @@ name = "nequip-extension-template"
 dynamic = ["version"]
 description = "TODO"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 license = {file = "LICENSE"}
 authors = [
     {name = "your name here"},
 ]
 
 dependencies = [
-    "nequip>=0.7.0"
+    "nequip>=0.13.0"
 ]
 
 [tool.setuptools.packages.find]
