@@ -5,6 +5,7 @@ This template should be used with reference to the [developer docs for extension
 
 Examples of `nequip` extension packages that can be used as references include
  - [Allegro](https://github.com/mir-group/allegro), an extension package that implements the strictly local equivariant model with excellent scalability for multirank molecular dynamics simulations.
+ - [NequIP-LES](https://github.com/ChengUCB/NequIP-LES), an extension of NequIP and Allegro that adds long-range electrostatics via the Latent Ewald Summation (LES) algorithm.
 
 Extension package developers are invited to join us on the NequIP community chat server, which is hosted on the excellent [Zulip](https://zulip.com/) software.
 Zulip is organized a little bit differently than chat software like Slack or Discord that you may be familiar with: please review [their introduction](https://zulip.com/help/introduction-to-topics) before posting.
