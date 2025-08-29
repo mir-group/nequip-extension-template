@@ -10,7 +10,7 @@ Examples of `nequip` extension packages that can be used as references include
 ## Licensing
 
 Although `nequip` uses the MIT License, this template does not include a license file.
-Developers creating extension packages are free to (and should) add a license before releasing their projects.
+Developers creating extension packages should add a license before releasing their projects.
 Unless you have a reason for choosing something different, we recommend the MIT License or something similarly permissive like the Apache 2.0 or BSD 3-Clause licenses.
 
 ## Join the NequIP Community
