@@ -1,5 +1,9 @@
-from nequip.data import register_fields
 from typing import Final
+
+# == IMPORTANT ==
+# Import directly from the key registry to avoid importing the full `nequip.data` package during module import
+# This keeps package dependency closure smaller for `nequip-package` and avoids pulling optional runtime integrations.
+from nequip.data._key_registry import register_fields
 
 # define the custom keys required for the extension package
 DEV_FACING_GRAPH_FIELD_KEY: Final[str] = "user_facing_graph_field_name"
